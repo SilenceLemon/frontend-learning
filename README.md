@@ -34,11 +34,10 @@ _You **can** combine them_
   * Item 2b
   
 # This is a <h1> tag
-www.baih1du.com   隔开
+www.baihdu.com   隔开
 [百度](http://www.baidu.com)
-As Lemon said:
->blockquote:
->This is a line
+
+
 
 
 As Kanye West said:
@@ -48,43 +47,5 @@ As Kanye West said:
   
   I think you should use an
 `<addr>` element here instead.
-  When words can't esspress its meaning,the words<addr> can't be told good words .
 
-
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-funtion fun(bool){
-    if(bool){
-    $.box({div:'#foo'})
-    }
-}
-
- function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
-    
-    def foo():
-    if not bar:
-        return True
-        
-- [x] this a task list 1
-- [x] This is a task 2
-- [] This is a list another
-
-
-
- Header1 | Header2
- ------- | -------
- content1 | content2
- colunm1 | column2
- First Header | Second Header
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
  
