@@ -1,5 +1,4 @@
-
-# 前端学习笔记<h1>
+# 前端学习笔记
 ## 《JavaScript高级程序设计（第3版）》
 * [ 第一章 JavaScript简介](https://github.com/SilenceLemon/frontend-learning/issues/6)
 * [ 第二章 在HTML中使用JavaScript](https://github.com/SilenceLemon/frontend-learning/issues/5)
